@@ -63,6 +63,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Actulus/Actulus/output/snake.svg" alt="Snake animation" />
-
+![snake animation](https://github.com/Actulus/Actulus/blob/output/github-contribution-grid-snake2.svg)
 ###
