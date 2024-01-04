@@ -63,5 +63,5 @@
 
 ###
 
-![snake animation](https://github.com/Actulus/Actulus/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Actulus/Actulus/blob/output/github-contribution-grid-snake-dark.svg)
 ###
