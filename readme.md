@@ -3,15 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=actulus&theme=tokyonight&row=2&column=4" alt="actulus" /></a> </p>
 
-- 🔭 I’m currently working on *my thesis*
-
-- 🌱 I’m currently learning *SketchUp*
-
-- 👨‍💻 All of my projects are available at [https://github.com/Actulus](https://github.com/Actulus)
-
-- 💬 Ask me about *Blender*
-
-- ⚡ Fun fact *I have misophonia*
+- 🌱 I’m currently learning Go
+- 
 ###
 
 <div align="center">
