@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Actulus</h1>
-<h3 align="center">A CompSCI student from Transylvania</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=actulus&theme=tokyonight&row=2&column=4" alt="actulus" /></a> </p>
 
 ###
 
